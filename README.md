@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Gif App By DDRRAKKEN
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este pequeña App realizada en React es solo para dicersion y entretenimiento [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
